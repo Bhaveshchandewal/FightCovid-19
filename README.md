@@ -15,6 +15,6 @@ A Flutter application which provides realtime data/statistics of the Covid-19 pa
 - FAQ section
 - MythBuster and Donate to WHO options
 
-### NOTE- The key feature of Contact Tracing using Google Nearby API(Bluetooth/GPS) is still remaining to be embedded in the app.So the project is currently under progress.
+#### NOTE- The key feature of Contact Tracing using Google Nearby API(Bluetooth/GPS) is still remaining to be embedded in the app.So the project is currently under progress.
 
 
